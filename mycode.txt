@@ -1,9 +1,3 @@
 Goodbay
 hello
 World
-Name
-Pavlo
-Sasha privet
-New java project
-Tymox
-Ghldfhkhd
